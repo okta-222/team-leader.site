@@ -66,3 +66,6 @@ webBtn.addEventListener("click", (btn) => {
     vectorSec.style.display = "none";
 
 });
+
+
+
